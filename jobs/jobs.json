@@ -1,0 +1,7 @@
+{
+  "id": "job-123",
+  "action": "convert",
+  "input": "/tmp/input.mp4",
+  "output": "/tmp/output.mp3",
+  "format": "mp3"
+}
